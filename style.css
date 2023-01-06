@@ -1,0 +1,195 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.bg-image {
+    background-image: url("/images/banner/banner3.png");
+    background-color: #cccccc;
+    height: 816px;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    position: relative;
+    margin: none;
+    padding: none;
+    border: none;
+}
+
+.header-contents {
+    text-align: right;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: 100px;
+    color: white;
+}
+
+.btn-primary {
+    background-color: white;
+    color: #005FAC;
+    border-style: none;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.btn-secondary {
+    background-color: #005FAC;
+    color: white;
+    border-style: none;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.header-sub-title {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 110px;
+}
+
+#main-1 {
+    margin-top: 160px;
+    margin-left: 25px;
+}
+
+.main-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 320px;
+}
+
+.main-sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 320px;
+}
+
+.tick {
+    display: flex;
+}
+
+.tick-img {
+    width: 24px;
+    height: 24px;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.tick-text {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* .plan-section{
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.08);
+} */
+.plan-container {
+    display: flex;
+    justify-content: center;
+}
+
+.plan {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.my-plan {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.grad {
+    margin-left: 175px;
+    margin-top: 150px;
+    padding-bottom: 150px;
+}
+
+.back-img {
+    background: url(/images/gradient1.png), url(/images/watch.png);
+    width: 1140px;
+    height: 300px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.grad-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    justify-content: center;
+}
+
+.grad-content {
+    margin-left: 64px;
+    padding-top: 60px;
+    right: 25%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    left: 50%;
+    display: flex;
+}
+
+.future {
+    margin-left: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 300px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer-info {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.subs {
+    margin-right: 200px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.social-icon {
+    padding-right: 20px;
+}
+
+.subs-title {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.input {
+    width: 325px;
+    height: 64px;
+    background-color: black;
+    color: white;
+    width: 325px;
+    height: 64px;
+    margin-bottom: 30px;
+    border-color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
