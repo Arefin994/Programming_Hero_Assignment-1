@@ -7,12 +7,13 @@
     background-color: #cccccc;
     height: 816px;
     background-position: center;
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
     margin: none;
     padding: none;
-    border: none;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header-contents {
@@ -96,9 +97,6 @@
     font-size: 16px;
 }
 
-/* .plan-section{
-    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.08);
-} */
 .plan-container {
     display: flex;
     justify-content: center;
@@ -125,6 +123,7 @@ justify-content: center;
     margin-left: 175px;
     margin-top: 150px;
     padding-bottom: 150px;
+    justify-content: center;
 }
 
 .back-img {
@@ -133,10 +132,11 @@ justify-content: center;
     height: 300px;
     margin-bottom: 20px;
     border-radius: 8px;
+    justify-content: center;
 }
 
 .grad-title {
-    font-weight: 700;
+    font-weight: 700px;
     font-size: 40px;
     color: white;
     justify-content: center;
@@ -146,6 +146,7 @@ justify-content: center;
     margin-left: 64px;
     padding-top: 60px;
     right: 25%;
+    justify-content: center;
 }
 
 .footer {
@@ -153,6 +154,7 @@ justify-content: center;
     color: white;
     left: 50%;
     display: flex;
+    justify-content: center;
 }
 
 .future {
@@ -206,6 +208,7 @@ justify-content: center;
 }
 .additional-content{
     display: flex;
+    justify-content: center;
     padding: 100px 100px;
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.08);
 }
