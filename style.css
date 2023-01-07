@@ -3,7 +3,7 @@
 }
 
 .bg-image {
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("images/banner/banner3.png");
     background-color: #cccccc;
     height: 816px;
     background-position: center;
