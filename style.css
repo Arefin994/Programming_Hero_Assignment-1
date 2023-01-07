@@ -107,8 +107,14 @@
 .plan {
     text-align: center;
     margin-top: 75px;
+    justify-content: center;
 }
-
+/* .plan-name{
+justify-content: center;
+}
+.plan-description{
+justify-content: center;
+} */
 .my-plan {
     display: flex;
     justify-content: center;
