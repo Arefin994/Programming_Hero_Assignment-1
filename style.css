@@ -3,7 +3,7 @@
 }
 
 .bg-image {
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("images/banner/banner3.png");
     background-color: #cccccc;
     height: 816px;
     background-position: center;
@@ -122,7 +122,7 @@
 }
 
 .back-img {
-    background: url("/images/gradient1.png"), url("/images/watch.png");
+    background: url("./images/gradient1.png"), url("./images/watch.png");
     width: 1140px;
     height: 300px;
     margin-bottom: 20px;
